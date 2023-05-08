@@ -1,6 +1,7 @@
-# cleanarch
 
-A new Flutter project.
+# Flutter Clean Architecture Project
+
+Implementing Clean Architecture design pattern to my Flutter app.
 
 ## Getting Started
 
